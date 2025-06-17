@@ -6,3 +6,4 @@ Adding 1 to branch2
 Adding 2 to branch2
 Adding 3 to branch2
 Ananas
+Coconut
